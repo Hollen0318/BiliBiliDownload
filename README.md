@@ -1,6 +1,6 @@
 吹拉弹唱慕星银      https://space.bilibili.com/690545051?spm_id_from=333.337.0.0
 水岛虹              
-···bash
+```bash
 mamba create -n bilibili python=3.11
 mamba activate bilibili
 pip install yt-dlp
